@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "986912430",
+    "firebase_url": "https://maiappfb.firebaseio.com",
+    "project_id": "maiappfb",
+    "storage_bucket": "maiappfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986912430:android:52589e64be9cec0dba3f3f",
+        "android_client_info": {
+          "package_name": "maiapp.com.Ahameds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986912430-3o6i34o24ajsmsjb1l60mk01pumg4a52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "maiapp.com.Ahameds",
+            "certificate_hash": "da76fe6b3780f949c5281fa9e0fed4e567322c72"
+          }
+        },
+        {
+          "client_id": "986912430-kb492246672e7ceqes7gs7kb8gv89h5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDSQKGIB4UTUv8210T-PoBC8-gWh_0pS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986912430-kb492246672e7ceqes7gs7kb8gv89h5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
