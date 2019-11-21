@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
                     Show.setText("Added");
                 }
                 else{
-                    Show.setText(FName.getText());
+                    Show.setText(FName.getText());//ok
                 }
             }
         });
