@@ -1,0 +1,2 @@
+rootProject.name='MaiAppv2'
+include ':app'
